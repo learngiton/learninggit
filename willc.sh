@@ -1,0 +1,3 @@
+updateing file in MASTER branch
+without commiting the code in the master branch ...will checkout to other branch ....i.e stage
+and will see sane content will be present or not...
